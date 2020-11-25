@@ -25,6 +25,9 @@
   border-color: #a88734 #9c7e31 #846a29;
   color: #111;
 }
+.product > button:hover {
+  cursor: pointer;
+}
 
 .product_info {
   height: 100px;
